@@ -3,8 +3,8 @@ This project implements RestAPI with codebase mainly focused with:
 
 Java as the main language ,
 Spring Boot as the framework which reduces tight coupling by implementing dependency injection and IoC,
-PostgreSQL as the database fro the QA and PROD profiles
-and H2 in Mem database for the TEST scenarios for the various Layers including repository layer, service layer and the Controller Layer.
+PostgreSQL as the database for the QA and PROD profiles
+and H2 in Mem database for the Unit TEST scenarios for the various Layers including repository layer, service layer and the Controller Layer.
 
 # Code Structure
 
