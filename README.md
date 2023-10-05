@@ -9,6 +9,7 @@ and H2 in Mem database for the Unit TEST scenarios for the various Layers includ
 # Code Structure
 
 rest-api/
+├── Logs/
 ├── src/
 │   ├── main/
 │   │   ├── java/
