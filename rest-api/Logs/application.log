@@ -1,0 +1,50 @@
+2023-10-05T15:11:54.782+0300 INFO Starting RestApiApplication using Java 17.0.8.1 with PID 13081 (/home/joe/Desktop/intellij-ws/rest-api/target/classes started by joe in /home/joe/Desktop/intellij-ws/rest-api)
+2023-10-05T15:11:54.787+0300 DEBUG Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-05T15:11:54.791+0300 INFO The following 1 profile is active: "QA"
+2023-10-05T15:12:11.310+0300 INFO Started RestApiApplication in 18.61 seconds (process running for 20.37)
+2023-10-05T15:13:25.879+0300 INFO Starting RestApiApplication using Java 17.0.8.1 with PID 13275 (/home/joe/Desktop/intellij-ws/rest-api/target/classes started by joe in /home/joe/Desktop/intellij-ws/rest-api)
+2023-10-05T15:13:25.882+0300 DEBUG Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-05T15:13:25.886+0300 INFO The following 1 profile is active: "QA"
+2023-10-05T15:13:41.494+0300 INFO Started RestApiApplication in 17.778 seconds (process running for 19.577)
+2023-10-05T15:18:33.424+0300 INFO Starting RestApiApplication using Java 17.0.8.1 with PID 13489 (/home/joe/Desktop/intellij-ws/rest-api/target/classes started by joe in /home/joe/Desktop/intellij-ws/rest-api)
+2023-10-05T15:18:33.431+0300 INFO The following 1 profile is active: "QA"
+2023-10-05T15:18:48.802+0300 INFO Started RestApiApplication in 17.617 seconds (process running for 19.466)
+2023-10-05T15:25:44.616+0300 --- INFO Starting RestApiApplication using Java 17.0.8.1 with PID 13899 (/home/joe/Desktop/intellij-ws/rest-api/target/classes started by joe in /home/joe/Desktop/intellij-ws/rest-api)
+2023-10-05T15:25:44.623+0300 --- INFO The following 1 profile is active: "QA"
+2023-10-05T15:25:59.833+0300 --- INFO Started RestApiApplication in 17.242 seconds (process running for 19.02)
+2023-10-05T15:29:56.804+0300 --- INFO Starting RestApiApplication using Java 17.0.8.1 with PID 14089 (/home/joe/Desktop/intellij-ws/rest-api/target/classes started by joe in /home/joe/Desktop/intellij-ws/rest-api)
+2023-10-05T15:29:56.811+0300 --- INFO The following 1 profile is active: "QA"
+2023-10-05T15:30:12.016+0300 --- INFO Started RestApiApplication in 17.272 seconds (process running for 19.087)
+2023-10-05T15:38:34.333+0300 --- INFO Starting RestApiApplication using Java 17.0.8.1 with PID 14800 (/home/joe/Desktop/intellij-ws/rest-api/target/classes started by joe in /home/joe/Desktop/intellij-ws/rest-api)
+2023-10-05T15:38:34.341+0300 --- INFO The following 1 profile is active: "QA"
+2023-10-05T15:38:56.489+0300 --- INFO Started RestApiApplication in 24.795 seconds (process running for 27.458)
+2023-10-05T15:41:43.178+0300 --- INFO Starting RestApiApplication using Java 17.0.8.1 with PID 15015 (/home/joe/Desktop/intellij-ws/rest-api/target/classes started by joe in /home/joe/Desktop/intellij-ws/rest-api)
+2023-10-05T15:41:43.183+0300 --- INFO The following 1 profile is active: "QA"
+2023-10-05T15:41:59.668+0300 --- INFO Started RestApiApplication in 18.812 seconds (process running for 20.754)
+2023-10-05T15:46:06.585+0300 --- INFO Welcome API call success
+2023-10-05T15:46:28.957+0300 --- INFO executing end point for fetching all departments in DepartmentServiceImpl.class ...
+2023-10-05T15:46:29.414+0300 --- INFO End point execution successfully completed
+2023-10-05T16:28:15.232+0300 --- INFO Starting RestApiApplicationTests using Java 17.0.8.1 with PID 16403 (started by joe in /home/joe/Desktop/intellij-ws/rest-api)
+2023-10-05T16:28:15.257+0300 --- INFO The following 1 profile is active: "QA"
+2023-10-05T16:28:46.692+0300 --- INFO Started RestApiApplicationTests in 35.104 seconds (process running for 42.283)
+2023-10-05T16:28:52.742+0300 --- INFO Starting DepartmentServiceTest using Java 17.0.8.1 with PID 16403 (started by joe in /home/joe/Desktop/intellij-ws/rest-api)
+2023-10-05T16:28:52.746+0300 --- INFO The following 1 profile is active: "QA"
+2023-10-05T16:29:07.697+0300 --- INFO Started DepartmentServiceTest in 15.498 seconds (process running for 63.289)
+2023-10-05T16:29:08.361+0300 --- INFO executing end point for fetching a single department inside DepartmentServiceImpl.class ....
+2023-10-05T16:29:08.397+0300 --- ERROR Department Arst not available
+2023-10-05T16:29:08.525+0300 --- INFO executing end point for fetching a single department inside DepartmentServiceImpl.class ....
+2023-10-05T16:29:08.536+0300 --- INFO execution for end point for fetching a single department inside DepartmentServiceImpl.class completed
+2023-10-05T16:29:08.653+0300 --- INFO end point for saving department running ...
+2023-10-05T16:29:08.657+0300 --- INFO Execution for endpoint createDepartment in DepartmentService.class is completed
+2023-10-05T16:29:08.803+0300 --- INFO executing end point for fetching all departments in DepartmentServiceImpl.class ...
+2023-10-05T16:29:08.805+0300 --- INFO End point execution successfully completed
+2023-10-05T16:29:08.850+0300 --- INFO execution for end point for deleting department inside DepartmentServiceImpl.class ...
+2023-10-05T16:29:08.852+0300 --- INFO execution for end point for fetching a single department completed
+2023-10-05T16:29:08.903+0300 --- INFO executing end point for fetching all departments in DepartmentServiceImpl.class ...
+2023-10-05T16:29:08.913+0300 --- INFO End point execution successfully completed
+2023-10-05T16:29:09.912+0300 --- INFO Starting DepartmentRepositoryTest using Java 17.0.8.1 with PID 16403 (started by joe in /home/joe/Desktop/intellij-ws/rest-api)
+2023-10-05T16:29:09.916+0300 --- INFO The following 1 profile is active: "QA"
+2023-10-05T16:29:16.717+0300 --- INFO Started DepartmentRepositoryTest in 7.341 seconds (process running for 72.309)
+2023-10-05T16:29:19.698+0300 --- INFO Starting DepartmentControllerTest using Java 17.0.8.1 with PID 16403 (started by joe in /home/joe/Desktop/intellij-ws/rest-api)
+2023-10-05T16:29:19.701+0300 --- INFO The following 1 profile is active: "QA"
+2023-10-05T16:29:23.083+0300 --- INFO Started DepartmentControllerTest in 3.746 seconds (process running for 78.675)
